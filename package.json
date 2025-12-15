@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "export": "next export",
-    "deploy": "next build && gh-pages -d out -t true"
+    "deploy": "next build && npx gh-pages -d out"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",

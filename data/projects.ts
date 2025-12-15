@@ -23,11 +23,4 @@ export const projects = [
       "Real-time facial recognition system for CCTV surveillance achieving 95% accuracy on 1,000+ images.",
     stats: "OpenCV · Machine Learning · Python",
   },
-  {
-    id: 4,
-    title: "Campus AI Assistant (Internship)",
-    description:
-      "AI assistant built during Swecha Telangana internship using Hugging Face and Streamlit with optimized prompt engineering.",
-    stats: "Hugging Face · Streamlit · LLMs",
-  },
 ];

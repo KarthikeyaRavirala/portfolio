@@ -42,4 +42,4 @@ npm run deploy
 
 2. Replace social links in `components/Footer.tsx`
 
-3. Add your own project screenshots in the `public/` directory
+3. Add your own project screenshots in the `public/` directory# Portfolio
